@@ -1,0 +1,26 @@
+lab_id,patient_id,test_name,test_value,reference_min,reference_max,test_unit,test_date
+L301,P001,Fasting Blood Glucose,118.0,70.0,99.0,mg/dL,2025-05-09
+L302,P001,Total Cholesterol,245.0,125.0,200.0,mg/dL,2025-05-09
+L303,P002,Fasting Blood Glucose,175.0,70.0,99.0,mg/dL,2025-05-09
+L304,P002,Hemoglobin,13.2,12.0,16.5,g/dL,2025-05-09
+L305,P003,Troponin-I,0.18,0.0,0.04,ng/mL,2025-05-10
+L306,P003,Total Cholesterol,260.0,125.0,200.0,mg/dL,2025-05-09
+L307,P004,Hemoglobin,14.1,12.0,16.5,g/dL,2025-05-08
+L308,P005,White Blood Cell Count,13.8,4.0,11.0,10^3/uL,2025-05-09
+L309,P005,Serum Creatinine,1.0,0.6,1.2,mg/dL,2025-05-09
+L310,P006,White Blood Cell Count,6.5,4.0,11.0,10^3/uL,2025-05-10
+L311,P007,Serum Creatinine,1.9,0.6,1.2,mg/dL,2025-05-09
+L312,P007,Troponin-I,0.08,0.0,0.04,ng/mL,2025-05-09
+L313,P008,White Blood Cell Count,7.2,4.0,11.0,10^3/uL,2025-05-09
+L314,P009,Serum Creatinine,3.4,0.6,1.2,mg/dL,2025-05-09
+L315,P009,Hemoglobin,9.8,12.0,16.5,g/dL,2025-05-09
+L316,P010,Hemoglobin,13.5,12.0,16.5,g/dL,2025-05-08
+L317,P011,Total Cholesterol,230.0,125.0,200.0,mg/dL,2025-05-09
+L318,P011,Fasting Blood Glucose,112.0,70.0,99.0,mg/dL,2025-05-09
+L319,P012,Fasting Blood Glucose,162.0,70.0,99.0,mg/dL,2025-05-09
+L320,P013,Serum Creatinine,0.9,0.6,1.2,mg/dL,2025-05-08
+L321,P014,Total Cholesterol,175.0,125.0,200.0,mg/dL,2025-05-09
+L322,P014,Fasting Blood Glucose,88.0,70.0,99.0,mg/dL,2025-05-09
+L323,P015,Troponin-I,0.02,0.0,0.04,ng/mL,2025-05-10
+L324,P015,Serum Creatinine,1.1,0.6,1.2,mg/dL,2025-05-09
+L303,P002,Fasting Blood Glucose,175.0,70.0,99.0,mg/dL,2025-05-09

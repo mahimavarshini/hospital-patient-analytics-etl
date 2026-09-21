@@ -1,0 +1,16 @@
+appointment_id,patient_id,appointment_date,scheduled_time,department,doctor_id,status
+A101,P001,2025-05-10,2025-05-10 09:00:00,Cardiology,DOC_01,Completed
+A102,P002,2025-05-10,2025-05-10 09:15:00,General Medicine,DOC_02,Completed
+A103,P003,2025-05-10,2025-05-10 09:30:00,Cardiology,DOC_01,Completed
+A104,P004,2025-05-10,2025-05-10 10:00:00,Orthopedics,DOC_03,Completed
+A105,P005,2025-05-10,2025-05-10 10:15:00,Pulmonology,DOC_04,Completed
+A106,P006,2025-05-10,2025-05-10 10:30:00,Pediatrics,DOC_05,Completed
+A107,P007,2025-05-10,2025-05-10 11:00:00,Cardiology,DOC_01,Completed
+A108,P008,2025-05-10,2025-05-10 11:15:00,Pulmonology,DOC_04,Completed
+A109,P009,2025-05-10,2025-05-10 11:30:00,Nephrology,DOC_06,Completed
+A110,P010,2025-05-10,2025-05-10 12:00:00,Neurology,DOC_07,Completed
+A111,P011,2025-05-10,2025-05-10 13:00:00,Cardiology,DOC_01,Completed
+A112,P012,2025-05-10,2025-05-10 13:30:00,General Medicine,DOC_02,Completed
+A113,P013,2025-05-10,2025-05-10 14:00:00,Orthopedics,DOC_03,Completed
+A114,P014,2025-05-10,2025-05-10 14:30:00,General Medicine,DOC_02,Completed
+A115,P015,2025-05-10,2025-05-10 15:00:00,Cardiology,DOC_01,Completed

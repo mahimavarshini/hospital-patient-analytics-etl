@@ -1,0 +1,16 @@
+patient_id,patient_name,age,gender,chronic_condition,appointment_id,department,waiting_time_minutes,diagnosis,avg_heart_rate,avg_systolic_bp,avg_diastolic_bp,min_spo2,total_lab_tests,abnormal_lab_count,hr_risk_score,bp_risk_score,spo2_risk_score,lab_risk_score,comorbidity_risk_score,total_clinical_risk_score,clinical_risk_tier,high_risk_flag,care_recommendation
+P001,John Doe,67,Male,Hypertension,A101,Cardiology,25.0,Stage 2 Hypertension,80.0,142.3,92.3,96.0,2,2,0,1,0,2,2,5,Moderate,0,PRIORITY: Continuous vitals monitoring & clinical review
+P002,Jane Smith,49,Female,Diabetes,A102,General Medicine,40.0,Type 2 Diabetes,73.5,129.0,83.0,98.0,2,1,0,0,0,1,1,2,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P003,Robert Johnson,76,Male,Coronary Artery Disease,A103,Cardiology,75.0,Unstable Angina,118.0,171.7,105.0,89.0,2,2,2,2,3,2,3,12,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit
+P004,Emily Davis,33,Female,None,A104,Orthopedics,15.0,Lumbar Muscle Strain,69.0,119.0,77.0,99.0,1,0,0,0,0,0,0,0,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P005,Michael Brown,61,Male,COPD,A105,Pulmonology,65.0,Acute COPD Exacerbation,98.0,138.7,88.0,90.0,2,1,0,0,3,1,2,6,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit
+P006,Sarah Wilson,36,Female,None,A106,Pediatrics,18.0,Viral Upper Respiratory Infection,74.0,115.0,75.0,98.0,1,0,0,0,0,0,0,0,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P007,David Martinez,73,Male,Heart Failure,A107,Cardiology,50.0,Congestive Heart Failure,107.7,159.0,98.0,90.0,2,2,1,1,3,2,3,10,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit
+P008,Lisa Taylor,44,Female,Asthma,A108,Pulmonology,20.0,Moderate Asthma,86.0,125.0,81.0,94.0,1,0,0,0,1,0,1,2,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P009,James Anderson,83,Male,Chronic Kidney Disease,A109,Nephrology,65.0,Chronic Kidney Disease Stage 4,88.0,166.5,103.0,92.0,2,2,0,2,2,2,3,9,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit
+P010,Mary Thomas,29,Female,None,A110,Neurology,20.0,Migraine with Aura,66.0,112.0,74.0,99.0,1,0,0,0,0,0,0,0,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P011,William Jackson,56,Male,Hypertension,A111,Cardiology,40.0,Hypertensive Urgency,93.5,160.0,99.0,95.0,2,2,0,2,1,2,1,6,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit
+P012,Patricia White,70,Female,Diabetes,A112,General Medicine,20.0,Diabetic Neuropathy,76.0,134.0,84.0,97.0,1,1,0,0,0,1,2,3,Moderate,0,PRIORITY: Continuous vitals monitoring & clinical review
+P013,Richard Harris,51,Male,None,A113,Orthopedics,18.0,Knee Osteoarthritis,71.0,122.0,78.0,98.0,1,0,0,0,0,0,0,0,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P014,Jennifer Martin,40,Female,None,A114,General Medicine,12.0,Routine Health Checkup,65.0,116.0,74.0,99.0,2,0,0,0,0,0,0,0,Low,0,ROUTINE: Standard outpatient care & scheduled follow-up
+P015,Charles Thompson,74,Male,Arrhythmia,A115,Cardiology,45.0,Atrial Fibrillation,114.0,140.0,89.0,95.0,2,0,2,1,1,0,2,6,High,1,URGENT: Escalate to Senior Consultant / High-Dependency Unit

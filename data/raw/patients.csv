@@ -1,0 +1,17 @@
+patient_id,first_name,last_name,gender,date_of_birth,phone,blood_group,chronic_condition
+P001,John,Doe,Male,1958-03-15,555-0101,O+,Hypertension
+P002,Jane,Smith,female,1975-08-22,555-0102,A-,Diabetes
+P003,Robert,Johnson,M,1948-11-05,,B+,Coronary Artery Disease
+P004,Emily,Davis,Female,1992-04-10,555-0104,O-,None
+P005,Michael,Brown,male,1963-07-19,555-0105,AB+,COPD
+P006,Sarah,Wilson,F,1988-12-30,555-0106,A+,None
+P007,David,Martinez,Male,1952-01-25,555-0107,O+,Heart Failure
+P008,Lisa,Taylor,female,1980-09-14,555-0108,B-,Asthma
+P009,James,Anderson,M,1942-05-18,,AB-,Chronic Kidney Disease
+P010,Mary,Thomas,Female,1995-10-03,555-0110,O+,None
+P011,William,Jackson,Male,1968-06-12,555-0111,A+,Hypertension
+P012,Patricia,White,F,1955-02-28,555-0112,B+,Diabetes
+P013,Richard,Harris,male,1973-11-17,555-0113,O-,None
+P014,Jennifer,Martin,Female,1985-04-09,555-0114,AB+,None
+P015,Charles,Thompson,M,1950-08-31,,A-,Arrhythmia
+P001,John,Doe,Male,1958-03-15,555-0101,O+,Hypertension

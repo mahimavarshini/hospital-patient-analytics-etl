@@ -1,0 +1,16 @@
+patient_id,first_name,last_name,gender,date_of_birth,phone,blood_group,chronic_condition,full_name,age
+P001,John,Doe,Male,1958-03-15,555-0101,O+,Hypertension,John Doe,67
+P002,Jane,Smith,Female,1975-08-22,555-0102,A-,Diabetes,Jane Smith,49
+P003,Robert,Johnson,Male,1948-11-05,Not Provided,B+,Coronary Artery Disease,Robert Johnson,76
+P004,Emily,Davis,Female,1992-04-10,555-0104,O-,None,Emily Davis,33
+P005,Michael,Brown,Male,1963-07-19,555-0105,AB+,COPD,Michael Brown,61
+P006,Sarah,Wilson,Female,1988-12-30,555-0106,A+,None,Sarah Wilson,36
+P007,David,Martinez,Male,1952-01-25,555-0107,O+,Heart Failure,David Martinez,73
+P008,Lisa,Taylor,Female,1980-09-14,555-0108,B-,Asthma,Lisa Taylor,44
+P009,James,Anderson,Male,1942-05-18,Not Provided,AB-,Chronic Kidney Disease,James Anderson,83
+P010,Mary,Thomas,Female,1995-10-03,555-0110,O+,None,Mary Thomas,29
+P011,William,Jackson,Male,1968-06-12,555-0111,A+,Hypertension,William Jackson,56
+P012,Patricia,White,Female,1955-02-28,555-0112,B+,Diabetes,Patricia White,70
+P013,Richard,Harris,Male,1973-11-17,555-0113,O-,None,Richard Harris,51
+P014,Jennifer,Martin,Female,1985-04-09,555-0114,AB+,None,Jennifer Martin,40
+P015,Charles,Thompson,Male,1950-08-31,Not Provided,A-,Arrhythmia,Charles Thompson,74

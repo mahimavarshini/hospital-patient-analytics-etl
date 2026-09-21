@@ -1,0 +1,17 @@
+consultation_id,appointment_id,patient_id,doctor_id,consultation_time,diagnosis,treatment_notes
+C201,A101,P001,DOC_01,2025-05-10 09:25:00,Stage 2 Hypertension,Prescribed Amlodipine 5mg daily. Low salt diet.
+C202,A102,P002,DOC_02,2025-05-10 09:55:00,Type 2 Diabetes,Adjusted Metformin dosage. Scheduled HbA1c review.
+C203,A103,P003,DOC_01,2025-05-10 10:45:00,Unstable Angina,Immediate ECG ordered. Prescribed Nitroglycerin. High alert.
+C204,A104,P004,DOC_03,2025-05-10 10:15:00,Lumbar Muscle Strain,Physiotherapy recommended twice weekly.
+C205,A105,P005,DOC_04,2025-05-10 11:20:00,Acute COPD Exacerbation,Nebulization administered. Prescribed oral corticosteroids.
+C206,A106,P006,DOC_05,2025-05-10 10:48:00,Viral Upper Respiratory Infection,Hydration and rest advised. Paracetamol as needed.
+C207,A107,P007,DOC_01,2025-05-10 11:50:00,Congestive Heart Failure,Increased diuretic dosage. Urgent cardiology follow-up.
+C208,A108,P008,DOC_04,2025-05-10 11:35:00,Moderate Asthma,Inhaler technique reviewed. Salbutamol as needed.
+C209,A109,P009,DOC_06,2025-05-10 12:35:00,Chronic Kidney Disease Stage 4,Referral to nephrology dietitian. Monitor electrolytes.
+C210,A110,P010,DOC_07,2025-05-10 12:20:00,Migraine with Aura,Prescribed Sumatriptan. Recommended headache journal.
+C211,A111,P011,DOC_01,2025-05-10 13:40:00,Hypertensive Urgency,Administered oral antihypertensive. Monitored in clinic.
+C212,A112,P012,DOC_02,2025-05-10 13:50:00,Diabetic Neuropathy,Prescribed Pregabalin. Advised daily foot care.
+C213,A113,P013,DOC_03,2025-05-10 14:18:00,Knee Osteoarthritis,Prescribed NSAID. Exercise regimen discussed.
+C214,A114,P014,DOC_02,2025-05-10 14:42:00,Routine Health Checkup,All vitals within normal parameters. Annual review.
+C215,A115,P015,DOC_01,2025-05-10 15:45:00,Atrial Fibrillation,Prescribed anticoagulant. Holter monitor scheduled.
+C201,A101,P001,DOC_01,2025-05-10 09:25:00,Stage 2 Hypertension,Prescribed Amlodipine 5mg daily. Low salt diet.

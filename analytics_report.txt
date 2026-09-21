@@ -1,0 +1,70 @@
+======================================================================
+🏥 HOSPITAL PATIENT CARE ANALYTICS SYSTEM - EXECUTIVE KPI REPORT
+======================================================================
+
+📊 KPI 1: PATIENT WAITING TIME ANALYSIS (Operational Efficiency)
+----------------------------------------------------------------------
+      department  total_patients  avg_wait_mins  min_wait_mins  max_wait_mins
+      Nephrology               1           65.0           65.0           65.0
+      Cardiology               5           47.0           25.0           75.0
+     Pulmonology               2           42.5           20.0           65.0
+General Medicine               3           24.0           12.0           40.0
+       Neurology               1           20.0           20.0           20.0
+      Pediatrics               1           18.0           18.0           18.0
+     Orthopedics               2           16.5           15.0           18.0
+
+ Hospital-Wide Average Waiting Time: 35.2 minutes
+
+📊 KPI 2: APPOINTMENT VOLUME BY DEPARTMENT
+----------------------------------------------------------------------
+      department  total_appointments  percentage_share
+      Cardiology                   5              33.3
+General Medicine                   3              20.0
+     Orthopedics                   2              13.3
+     Pulmonology                   2              13.3
+      Nephrology                   1               6.7
+       Neurology                   1               6.7
+      Pediatrics                   1               6.7
+
+📊 KPI 3: ABNORMAL LABORATORY FINDINGS
+----------------------------------------------------------------------
+             test_name  total_tests  abnormal_count  abnormal_rate_pct  cohort_avg_value test_unit
+ Fasting Blood Glucose            5               4               80.0            131.00     mg/dL
+     Total Cholesterol            4               3               75.0            227.50     mg/dL
+      Serum Creatinine            5               2               40.0              1.66     mg/dL
+            Troponin-I            3               2               66.7              0.09     ng/mL
+            Hemoglobin            4               1               25.0             12.65      g/dL
+White Blood Cell Count            3               1               33.3              9.17   10^3/uL
+
+📊 KPI 4: CLINICAL RISK STRATIFICATION (NEWS2-aligned Model)
+----------------------------------------------------------------------
+clinical_risk_tier  patient_count  percentage_of_patients  avg_risk_score  cohort_avg_heart_rate  cohort_avg_sys_bp
+              High              6                    40.0             8.2                  103.2              156.0
+          Moderate              2                    13.3             4.0                   78.0              138.2
+               Low              7                    46.7             0.6                   72.1              119.7
+
+📊 KPI 5: PATIENT BIOMETRIC SUMMARY (Wearable Telemetry)
+----------------------------------------------------------------------
+patient_id     patient_name  age gender  avg_heart_rate  avg_systolic_bp  avg_diastolic_bp  min_spo2 clinical_risk_tier
+      P003   Robert Johnson   76   Male           118.0            171.7             105.0      89.0               High
+      P015 Charles Thompson   74   Male           114.0            140.0              89.0      95.0               High
+      P007   David Martinez   73   Male           107.7            159.0              98.0      90.0               High
+      P005    Michael Brown   61   Male            98.0            138.7              88.0      90.0               High
+      P011  William Jackson   56   Male            93.5            160.0              99.0      95.0               High
+      P009   James Anderson   83   Male            88.0            166.5             103.0      92.0               High
+      P008      Lisa Taylor   44 Female            86.0            125.0              81.0      94.0                Low
+      P001         John Doe   67   Male            80.0            142.3              92.3      96.0           Moderate
+      P012   Patricia White   70 Female            76.0            134.0              84.0      97.0           Moderate
+      P006     Sarah Wilson   36 Female            74.0            115.0              75.0      98.0                Low
+  (Showing top 10 patients sorted by resting heart rate)
+
+🚨 KPI 6: ACTION ROSTER - PATIENTS REQUIRING IMMEDIATE CLINICAL ATTENTION
+----------------------------------------------------------------------
+patient_id     patient_name  age  department  waiting_time_minutes  avg_heart_rate  avg_systolic_bp  min_spo2  abnormal_lab_count  total_clinical_risk_score clinical_risk_tier                      diagnosis                                          care_recommendation
+      P003   Robert Johnson   76  Cardiology                  75.0           118.0            171.7      89.0                   2                         12               High                Unstable Angina URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P007   David Martinez   73  Cardiology                  50.0           107.7            159.0      90.0                   2                         10               High       Congestive Heart Failure URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P009   James Anderson   83  Nephrology                  65.0            88.0            166.5      92.0                   2                          9               High Chronic Kidney Disease Stage 4 URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P005    Michael Brown   61 Pulmonology                  65.0            98.0            138.7      90.0                   1                          6               High        Acute COPD Exacerbation URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P015 Charles Thompson   74  Cardiology                  45.0           114.0            140.0      95.0                   0                          6               High            Atrial Fibrillation URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P011  William Jackson   56  Cardiology                  40.0            93.5            160.0      95.0                   2                          6               High           Hypertensive Urgency URGENT: Escalate to Senior Consultant / High-Dependency Unit
+      P001         John Doe   67  Cardiology                  25.0            80.0            142.3      96.0                   2                          5           Moderate           Stage 2 Hypertension     PRIORITY: Continuous vitals monitoring & clinical review
